@@ -1,0 +1,22 @@
+.container {
+  max-width: 630px;
+  margin: 30px auto;
+}
+
+.App .weather-container {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 2px 2px 0px,
+    rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+  padding: 24px;
+}
+
+h1 {
+  color: #202124;
+  font-size: 24px;
+  font-weight: 100;
+  line-height: 28px;
+  margin: 0px;
+}
+
+body {
+  font-family: arial, sans-serif;
+}

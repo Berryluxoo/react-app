@@ -1,0 +1,26 @@
+.Search .search-style {
+  color: rgba(39, 33, 66, 0.4);
+  display: inline-block;
+  font-size: 16px;
+  height: 38px;
+  line-height: 20px;
+  background: rgb(249, 247, 254);
+  border-style: none;
+  border-radius: 6px;
+  padding: 15px 20px;
+  margin-right: 0;
+}
+.Search .form-control:focus {
+  background-color: rgb(255, 255, 255);
+  box-shadow: rgba(13, 110, 253, 0.25) 0px 0px 0px 0.25rem;
+  color: rgb(33, 37, 41);
+  border-color: rgb(134, 183, 254);
+  outline: 0px;
+}
+.Search .form-control {
+  transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+}
+
+.Search .button-block {
+  padding-left: 0;
+}
