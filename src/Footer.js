@@ -5,15 +5,15 @@ export default function Footer() {
     <div className="Footer">
       <small>
         <a
-          href="https://github.com/Berryluxoo/vanilla-weather-app/blob/main/index.html"
+          href="https://github.com/Berryluxoo/react-app"
           target="_blank"
           rel="noreferrer"
         >
           Open-source code
         </a>
-        , by Lina Burkalo and
+        , by Lina Burkalo and{" "}
         <a
-          href="https://zingy-phoenix-17c499.netlify.app/"
+          href="https://darling-rugelach-70f6ee.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
